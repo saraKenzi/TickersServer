@@ -1,0 +1,58 @@
+[
+        {
+        "sma": {
+            "length": 10,
+            "upOrDown": "up",
+            "func": "(x)=>x.Close",
+            "minimalDiffPrecents":0
+        }
+    },
+    {
+        "sma": {
+            "length": 10,
+            "upOrDown": "down",
+            "func": "(x)=>x.Close",
+            "minimalDiffPrecents":0
+        }
+    },
+    {
+        "sma": {
+            "length": 20,
+            "upOrDown": "up",
+            "func": "(x)=>x.Close",
+            "minimalDiffPrecents":0
+        }
+    },
+    {
+        "sma": {
+            "length": 20,
+            "upOrDown": "down",
+            "func": "(x)=>x.Close",
+            "minimalDiffPrecents":0
+        }
+    },
+    {
+        "sma": {
+            "length": 50,
+            "upOrDown": "up",
+            "func": "(x)=>x.Volume",
+            "minimalDiffPrecents":0
+        }
+    },
+    {
+        "sma": {
+            "length": 50,
+            "upOrDown": "down",
+            "func": "(x)=>x.Close",
+            "minimalDiffPrecents":0
+        }
+    },
+    {
+        "sma": {
+            "length": 30,
+            "upOrDown": "up",
+            "func": "(x)=>x.Volume",
+            "minimalDiffPrecents":0.1
+        }
+    }
+]
