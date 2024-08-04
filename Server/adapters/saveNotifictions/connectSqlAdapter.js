@@ -9,3 +9,6 @@ export default function connectSqlAdapter(config) {
             connectToDB(config,query, params);
         }
     }
+
+
+    //stored procedures
