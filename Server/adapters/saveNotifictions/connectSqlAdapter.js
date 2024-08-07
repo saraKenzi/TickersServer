@@ -11,4 +11,3 @@ export default function connectSqlAdapter(config) {
     }
 
 
-    //stored procedures
